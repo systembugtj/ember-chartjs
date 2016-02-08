@@ -1,2 +1,2 @@
 # ember-chartjs
-A ember addon for chart.js
+An ember addon for chart.js
